@@ -11,7 +11,7 @@ ____________________________________________
 	• Azure cloud takes ownership of the Host server and rent out VMs
 		○ Saves customer server space, utility costs, equipment cost, maintenance, etc.
 		
-	• Cloud Model 
+	• Cloud Models 
 		○ Public Cloud
 			§ Owned by cloud service provider
 			§ Provide resources and services to multiple organizations and users; accessed via secure internet connection
